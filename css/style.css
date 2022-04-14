@@ -44,8 +44,8 @@ body {
   text-align: left;
 }
 .pro {
-  max-width: 200px;
-  max-height: 200px;
+  max-width: 250px;
+  max-height: 300px;
   border-radius: 20px;
 }
 .log {
